@@ -1,0 +1,12 @@
+/* set background and font color */
+body{
+	background: orange;
+	color:white;
+}
+
+/* set font and font size */
+h1{
+	font-family: serif;
+	/*font-family:monospace;*/
+	font-size:24pt;
+}
